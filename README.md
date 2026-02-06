@@ -1,4 +1,4 @@
-Simple Interest Calculator (Bash Script)
+Simple Interest Calculator (Bish Script)
 
 Description
 This Bash script calculates **Simple Interest** based on user input.  
